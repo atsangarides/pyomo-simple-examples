@@ -17,6 +17,10 @@ poetry install
 ```
 
 ### solvers
+
+Following steps work for MacOS systems. They are also available via `conda`.
+Instructions for running within a docker container will be included soon.
+
 ```shell
 brew install glpk
 brew install ipopt
