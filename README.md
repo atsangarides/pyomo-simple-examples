@@ -1,6 +1,6 @@
 # pyomo-simple-examples
 
-A collection of notebooks illustrating how `pyomo can be used to solve`:
+A collection of notebooks illustrating how `pyomo` can be used to solve:
 1. A linear program
 2. A mixed integer linear program
 3. A non linear program
