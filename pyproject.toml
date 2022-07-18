@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pyomo-simple-examples"
+version = "0.1.0"
+description = ""
+authors = ["atsangarides <andreas_tsangarides@hotmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Pyomo = "^6.4.1"
+jupyter = "^1.0.0"
+matplotlib = "^3.5.2"
+numpy = "^1.23.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
